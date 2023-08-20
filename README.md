@@ -1,16 +1,38 @@
-### Hi there 👋
+# Bem-vindo ao meu Universo de Desenvolvimento! :wink:
 
-<!--
-**Rodrigo-RRC/Rodrigo-RRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Olá, sou Rodrigo, um Desenvolvedor Back End apaixonado por tecnologia e inovação. Minha paixão pela tecnologia me motiva a aprimorar minhas habilidades e buscar desafios empolgantes na área de desenvolvimento de software.
 
-Here are some ideas to get you started:
+## Minha Jornada
+Navegando pelo mundo do desenvolvimento, concentro meus esforços na construção de sólidas bases como Back End. A magia da linguagem JavaScript aliada ao poder de componentes como Node.js e SQL é o cerne da minha abordagem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou imerso na aprendizagem como Back End na respeitada [@Cubos Academy](https://cubos.academy/?utm_term=cubos%20academy&utm_campaign=Conversion+-+Search+-+Branding+-+Cubos+Academy&utm_source=google&utm_medium=cpc&hsa_acc=6320525513&hsa_cam=18154121427&hsa_grp=141084695032&hsa_ad=618464016440&hsa_src=g&hsa_tgt=kwd-1212716925774&hsa_kw=cubos%20academy&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw84anBhCtARIsAISI-xfcA54KCVQghGLBC4Qm0eBxXUtSVXD2WQ_N8sDwiTubNqg4pMvQFpkaApVpEALw_wcB), além de explorar o vasto horizonte da Análise de Dados por meio da parceria com a gigante [@Google](https://www.coursera.org/professional-certificates/google-data-analytics).
+
+## Habilidades e Conhecimentos
+### 🔥 Desenvolvedor Back-End 
+
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![]()
+
+Java | 📊 SQL | 🐍 Python | 💻 GitHub | 📚 Cubos Academy & Google
+
+### Pronto para Impactar
+Sinto uma empolgação contagiante pelas oportunidades que o desenvolvimento de software e a análise de dados trazem consigo. Meu desejo é unir forças a uma equipe dinâmica e inovadora. Se você está em busca de um profissional comprometido, apaixonado por tecnologia e com uma base sólida de conhecimentos, estou pronto para contribuir e, acima de tudo, aprender em cada passo da jornada.
+
+## :technologist:Para Me Encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ribeiro-devbackend/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547991820339)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://is.gd/OCnrFE)
+
+
+### Vamos Conectar!
+
+Estou pronto para explorar maneiras de agregar valor à sua equipe. Vamos conectar ideias e moldar o futuro! 💡🌟
+
+*"O único limite para o seu impacto é a sua imaginação e comprometimento."*
+
+Rodrigo Ribeiro Carvalho
