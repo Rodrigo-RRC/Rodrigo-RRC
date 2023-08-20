@@ -19,7 +19,7 @@ Estou imerso na aprendizagem como Back End na respeitada [@Cubos Academy](https:
 ![Java :coffee:](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-RRC)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-RRC&theme=dark&custom_title=Top%20%Linguagens)
 
 
 
