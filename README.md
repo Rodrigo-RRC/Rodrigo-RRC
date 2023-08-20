@@ -19,6 +19,9 @@ Estou imerso na aprendizagem como Back End na respeitada [@Cubos Academy](https:
 ![Java :coffee:](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-RRC)
+
+
 
 
 ## :recycle: Pronto para Impactar
@@ -37,4 +40,6 @@ Estou pronto para explorar maneiras de agregar valor à sua equipe. Vamos conect
 
 > *"O único limite para o seu impacto é a sua imaginação e comprometimento."*
 
-Rodrigo Ribeiro Carvalho
+
+
+
