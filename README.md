@@ -35,6 +35,6 @@ Sinto uma empolgação contagiante pelas oportunidades que o desenvolvimento de 
 
 Estou pronto para explorar maneiras de agregar valor à sua equipe. Vamos conectar ideias e moldar o futuro! 💡🌟
 
-*"O único limite para o seu impacto é a sua imaginação e comprometimento."*
+> *"O único limite para o seu impacto é a sua imaginação e comprometimento."*
 
 Rodrigo Ribeiro Carvalho
