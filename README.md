@@ -9,14 +9,12 @@ Navegando pelo mundo dos dados, concentro meus esforços na construção de sól
 Estou imerso na aprendizagem como Cientista de Dados na respeitada [@unintter](https://www.uninter.com/graduacao-ead/ciencia-de-dados-2/), além de explorar o vasto horizonte da Análise de Dados por meio da parceria com a gigante [@Google](https://www.coursera.org/professional-certificates/google-data-analytics).
 
 ## :computer: Habilidades e Conhecimentos
-###  Desenvolvedor Back-End | Análise de Dados | 📚 Cubos Academy & Google
+###  Análise de Dados | 📚 Uninter & Google
 
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Java :coffee:](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-RRC&theme=dark&custom_title=Top%20%Linguagens)
