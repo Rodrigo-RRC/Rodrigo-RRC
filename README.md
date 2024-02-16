@@ -1,12 +1,12 @@
 # Bem-vindo ao meu Universo de Desenvolvimento! :wink:
 
 ## :aquarius:Sobre Mim
-Olá, sou Rodrigo, um Desenvolvedor Back End apaixonado por tecnologia e inovação. Minha paixão pela tecnologia me motiva a aprimorar minhas habilidades e buscar desafios empolgantes na área de desenvolvimento de software.
+Olá, sou Rodrigo, um Analista de Dados apaixonado por tecnologia e inovação. Minha paixão pela tecnologia me motiva a aprimorar minhas habilidades e buscar desafios empolgantes na área de Ciência de Dados.
 
 ## :next_track_button:Minha Jornada
-Navegando pelo mundo do desenvolvimento, concentro meus esforços na construção de sólidas bases como Back End. A magia da linguagem JavaScript aliada ao poder de componentes como Node.js e SQL é o cerne da minha abordagem.
+Navegando pelo mundo dos dados, concentro meus esforços na construção de sólidas bases como Analista  de Dados / Cientista de Dados. A magia das linguagens R e Python aliada ao poder de componentes como RStudio, MySql , PostgreSql são o cerne da minha abordagem.
 
-Estou imerso na aprendizagem como Back End na respeitada [@Cubos Academy](https://cubos.academy/?utm_term=cubos%20academy&utm_campaign=Conversion+-+Search+-+Branding+-+Cubos+Academy&utm_source=google&utm_medium=cpc&hsa_acc=6320525513&hsa_cam=18154121427&hsa_grp=141084695032&hsa_ad=618464016440&hsa_src=g&hsa_tgt=kwd-1212716925774&hsa_kw=cubos%20academy&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw84anBhCtARIsAISI-xfcA54KCVQghGLBC4Qm0eBxXUtSVXD2WQ_N8sDwiTubNqg4pMvQFpkaApVpEALw_wcB), além de explorar o vasto horizonte da Análise de Dados por meio da parceria com a gigante [@Google](https://www.coursera.org/professional-certificates/google-data-analytics).
+Estou imerso na aprendizagem como Cientista de Dados na respeitada [@unintter](https://www.uninter.com/graduacao-ead/ciencia-de-dados-2/), além de explorar o vasto horizonte da Análise de Dados por meio da parceria com a gigante [@Google](https://www.coursera.org/professional-certificates/google-data-analytics).
 
 ## :computer: Habilidades e Conhecimentos
 ###  Desenvolvedor Back-End | Análise de Dados | 📚 Cubos Academy & Google
