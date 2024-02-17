@@ -6,7 +6,7 @@ Olá, sou Rodrigo, um Analista de Dados apaixonado por tecnologia e inovação. 
 ## :next_track_button:Minha Jornada
 Navegando pelo mundo dos dados, concentro meus esforços na construção de sólidas bases como Analista  de Dados / Cientista de Dados. A magia das linguagens R e Python aliada ao poder de componentes como RStudio, MySql , PostgreSql são o cerne da minha abordagem.
 
-Estou imerso na aprendizagem como Cientista de Dados na respeitada [@unintter](https://www.uninter.com/graduacao-ead/ciencia-de-dados-2/), além de explorar o vasto horizonte da Análise de Dados por meio da parceria com a gigante [@Google](https://www.coursera.org/professional-certificates/google-data-analytics).
+Estou imerso na aprendizagem como Cientista de Dados na respeitada [@uninter](https://www.uninter.com/graduacao-ead/ciencia-de-dados-2/), além de explorar o vasto horizonte da Análise de Dados por meio da parceria com a gigante [@Google](https://www.coursera.org/professional-certificates/google-data-analytics).
 
 ## :computer: Habilidades e Conhecimentos
 ###  Análise de Dados | 📚 Uninter & Google
