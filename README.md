@@ -29,7 +29,7 @@ Estou imerso na aprendizagem como Cientista de Dados na respeitada [@uninter](ht
 
 
 ## :recycle: Pronto para Impactar
-Sinto uma empolgação contagiante pelas oportunidades que o desenvolvimento de software e a análise de dados trazem consigo. Meu desejo é unir forças a uma equipe dinâmica e inovadora. Se você está em busca de um profissional comprometido, apaixonado por tecnologia e com uma base sólida de conhecimentos, estou pronto para contribuir e, acima de tudo, aprender em cada passo da jornada.
+Sinto uma empolgação contagiante pelas oportunidades que a análise de dados e ciência de dados trazem consigo. Meu desejo é unir forças a uma equipe dinâmica e inovadora. Se você está em busca de um profissional comprometido, apaixonado por tecnologia e com uma base sólida de conhecimentos, estou pronto para contribuir e, acima de tudo, aprender em cada passo da jornada.
 
 ## :technologist:Para Me Encontrar
 
