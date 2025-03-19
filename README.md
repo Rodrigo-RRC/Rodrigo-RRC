@@ -33,7 +33,7 @@ Sinto uma empolgação contagiante pelas oportunidades que a análise de dados e
 
 ## :technologist:Para Me Encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ribeiro-devbackend/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ribeiro-datascience?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547991820339)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://is.gd/OCnrFE)
 
