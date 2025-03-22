@@ -59,7 +59,8 @@ Se você busca um profissional **curioso, dedicado e com mentalidade de crescime
 ## 🧑‍💻 Para Me Encontrar  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rodrigo-ribeiro-datascience)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547991820339)  
-✉️ **Email**: rodrigoribeiroc.dev@gmail.com
+badge&logo=gmail&logoColor=white)](mailto:rodrigorc.dev@gmail.com  )
+
 
 ---
 
