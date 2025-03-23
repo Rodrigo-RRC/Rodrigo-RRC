@@ -7,7 +7,7 @@ Minha curiosidade natural me impulsiona a resolver problemas reais por meio de d
 ---
 
 ## ⏭️ Minha Jornada  
-Atualmente, estou em formação na graduação de Ciência de Dados pela [Uninter](https://www.uninter.com/graduacao-ead/ciencia-de-dados-2/) e concluindo o curso de Análise de Dados do [Google](https://www.coursera.org/professional-certificates/google-data-analytics).  
+Atualmente, estou em formação na graduação de Ciência de Dados pela [Uninter](https://www.uninter.com/graduacao-ead/ciencia-de-dados-2/) e **já concluí o curso de Análise de Dados do [Google](https://www.coursera.org/professional-certificates/google-data-analytics)**.  
 Além disso, desenvolvi projetos reais com **integração de IA e WhatsApp via FastAPI**, criando **agentes inteligentes funcionais** — tudo de forma **gratuita e prática**.
 
 Minha missão: transformar dados em valor de forma acessível, funcional e impactante.
@@ -46,8 +46,8 @@ Minha missão: transformar dados em valor de forma acessível, funcional e impac
 - **[Agente Inteligente com Memória + WhatsApp](https://github.com/Rodrigo-RRC/agente-inteligente-whatsapp)**  
   Criação de um agente conversacional usando o modelo GPT-2 com memória contextual, integração com FastAPI e envio de respostas pelo WhatsApp via UltraMsg.
 
-- **[Neurônio de Rosenblatt Treinado em Planilha](https://github.com/Rodrigo-RRC/neuronio-rosenblatt)**  
-  Projeto didático de IA que simula o funcionamento de um Perceptron simples. Com visualização de ativação via limiar dinâmico (RU), ajustando pesos e bias diretamente em uma planilha.
+- **[Neurônio de Rosenblatt em Planilha](https://github.com/Rodrigo-RRC/neuronio-rosenblatt)**  
+  Treinamento manual de um Perceptron (camada única) com visualização de pesos, bias e limiar (RU), implementado diretamente em uma planilha.
 
 - **[Portfólio de Análise de Dados com Power BI (em construção)](#)**  
   Em breve: dashboards com insights de dados públicos e aplicações reais.
