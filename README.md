@@ -31,4 +31,42 @@ Minha missão: transformar dados em valor de forma acessível, funcional e impac
 **APIs e Desenvolvimento:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
-![Node.js](https://img
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Análises e Dashboards:**  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Outros:**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 🧠 Projetos em Destaque
+
+- **[Agente Inteligente com Memória + WhatsApp](https://github.com/Rodrigo-RRC/agente-inteligente-whatsapp)**  
+  Criação de um agente conversacional usando o modelo GPT-2 com memória contextual, integração com FastAPI e envio de respostas pelo WhatsApp via UltraMsg.
+
+- **[Neurônio de Rosenblatt Treinado em Planilha](https://github.com/Rodrigo-RRC/neuronio-rosenblatt)**  
+  Projeto didático de IA que simula o funcionamento de um Perceptron simples. Com visualização de ativação via limiar dinâmico (RU), ajustando pesos e bias diretamente em uma planilha.
+
+- **[Portfólio de Análise de Dados com Power BI (em construção)](#)**  
+  Em breve: dashboards com insights de dados públicos e aplicações reais.
+
+---
+
+## ♻️ Pronto para Impactar  
+Tenho paixão em aprender e aplicar. Busco integrar equipes que queiram fazer mais com dados, inteligência artificial e automação.  
+Se você busca um profissional **curioso, dedicado e com mentalidade de crescimento**, estou pronto para contribuir e aprender a cada passo.
+
+---
+
+## 🧑‍💻 Para Me Encontrar  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rodrigo-ribeiro-datascience)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547991820339)  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigoribeiroc.dev@gmail.com)
+
+---
+
+## 🌟 Vamos Conectar?  
+Vamos construir soluções que realmente impactam?  
+_"O único limite para o seu impacto é a sua imaginação e comprometimento."_
