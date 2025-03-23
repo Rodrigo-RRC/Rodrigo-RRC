@@ -1,8 +1,16 @@
 # 👋 Bem-vindo ao meu Universo de Desenvolvimento!
 
 ## ♒ Sobre Mim  
-Olá! Sou Rodrigo, Analista de Dados em transição para Ciência de Dados, apaixonado por tecnologia, IA e inovação.  
-Minha curiosidade natural me impulsiona a resolver problemas reais por meio de dados, automação e soluções criativas com inteligência artificial.
+
+Olá! Sou Rodrigo, Analista de Dados em transição para a área de Inteligência Artificial, apaixonado por tecnologia, automação e inovação.  
+Minha curiosidade natural me impulsiona a resolver problemas reais com soluções inteligentes, simples e acessíveis.  
+
+Atualmente, curso **Tecnologia em Ciência de Dados pela Uninter** e conclui o **Certificado Profissional de Análise de Dados do Google** com 8 módulos completos.  
+Além disso, aplico diariamente conhecimentos em **Python, SQL, PostgreSQL, Pandas, Power BI** e outras ferramentas que utilizo para criar projetos reais e funcionais.  
+
+Minha missão é transformar dados em valor com propósito. Criei **agentes inteligentes conectados ao WhatsApp**, **dashboards interativos**, **redes neurais em planilhas**, e sigo aprendendo todos os dias para entregar cada vez mais valor à sociedade e ao mercado.  
+
+---
 
 ---
 
