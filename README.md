@@ -57,7 +57,7 @@ Minha missão: transformar dados em valor de forma acessível, funcional e impac
 - **[Neurônio de Rosenblatt em Planilha](https://github.com/Rodrigo-RRC/neuronio-rosenblatt)**  
   Treinamento manual de um Perceptron (camada única) com visualização de pesos, bias e limiar (RU), implementado diretamente em uma planilha.
 
-- **[Portfólio de Análise de Dados com Power BI (em construção)](#)**  
+- **[Portfólio de Análise de Dados com Power BI (em construção)](https://github.com/Rodrigo-RRC/Projetos_PowerBi)**  
   Em breve: dashboards com insights de dados públicos e aplicações reais.
 
 ---
