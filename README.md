@@ -1,96 +1,146 @@
-# 👋 Bem-vindo ao meu Universo de Desenvolvimento!
+# 👋 Bem-vindo ao meu Universo de Dados & Inteligência Artificial
 
-## ♒ Sobre Mim
+## 🚀 Sobre Mim
 
-Olá! Sou Rodrigo, Analista de Dados em transição para a área de Inteligência Artificial, apaixonado por tecnologia, automação e inovação.
-Minha curiosidade natural me impulsiona a resolver problemas reais com soluções inteligentes, simples e acessíveis.
+Olá! Sou Rodrigo Ribeiro Carvalho, estudante de Ciência de Dados e atualmente **Estagiário na Dataprev**, atuando com foco em tecnologia, dados e soluções inteligentes.
 
-Atualmente, curso **Tecnologia em Ciência de Dados pela Uninter** e conclui o **Certificado Profissional de Análise de Dados do Google** com 8 módulos completos.
-Além disso, aplico diariamente conhecimentos em **Python, SQL, PostgreSQL, Pandas, Power BI** e outras ferramentas que utilizo para criar projetos reais e funcionais.
+Sou apaixonado por Inteligência Artificial, automação, visão computacional e desenvolvimento de soluções que gerem impacto real. Minha curiosidade e vontade constante de aprender me impulsionam a transformar problemas complexos em soluções práticas, acessíveis e eficientes.
 
-Minha missão é transformar dados em valor com propósito. Criei **agentes inteligentes conectados ao WhatsApp**, **dashboards interativos**, **redes neurais em planilhas**, realizei **fine-tuning de modelos YOLO para detecção de placas veiculares brasileiras** com publicação no HuggingFace, e sigo aprendendo todos os dias para entregar cada vez mais valor à sociedade e ao mercado.
+Atualmente, curso **Tecnologia em Ciência de Dados pela Uninter** e concluí o **Certificado Profissional de Análise de Dados do Google**, fortalecendo minha base em análise, visualização e interpretação de dados.
 
----
-
-## ⏭️ Minha Jornada
-
-Atualmente, estou em formação na graduação de Ciência de Dados pela [Uninter](https://www.uninter.com/graduacao-ead/ciencia-de-dados-2/) e **já concluí o curso de Análise de Dados do [Google](https://www.coursera.org/professional-certificates/google-data-analytics)**.
-Além disso, desenvolvi projetos reais com **integração de IA e WhatsApp via FastAPI**, **fine-tuning de modelos de visão computacional com YOLO** e publicação de modelos no **HuggingFace** — tudo de forma **gratuita e prática**.
-
-Minha missão: transformar dados em valor de forma acessível, funcional e impactante.
+No dia a dia, aplico conhecimentos em **Python, SQL, PostgreSQL, Pandas, Power BI, FastAPI, Machine Learning e Computer Vision**, desenvolvendo projetos que unem tecnologia e inovação.
 
 ---
 
-## 💻 Habilidades e Ferramentas
+## 📈 Minha Jornada
 
-**Linguagens e Frameworks:**
+Minha trajetória é marcada pela construção prática de projetos reais envolvendo:
+
+- 🤖 **Agentes inteligentes integrados ao WhatsApp**
+- 🧠 **Modelos de IA com memória contextual**
+- 🚘 **Fine-tuning de modelos YOLO para detecção de placas brasileiras**
+- 📊 **Dashboards interativos e análises de dados**
+- ☁️ **Publicação de modelos no HuggingFace**
+- ⚡ **APIs inteligentes com FastAPI**
+
+Além da formação acadêmica, estou constantemente buscando evolução técnica e profissional para contribuir com soluções modernas orientadas por dados e inteligência artificial.
+
+Minha missão é clara: **transformar dados em valor através da tecnologia e da inovação.**
+
+---
+
+# 💻 Tecnologias & Ferramentas
+
+## 🐍 Linguagens e Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Bancos e IDEs:**
+---
+
+## 🗄️ Banco de Dados & IDEs
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-**APIs e Desenvolvimento:**
+---
+
+## ⚙️ APIs & Desenvolvimento
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 
-**Análises e Dashboards:**
+---
+
+## 📊 Dados & Visualização
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Visão Computacional e IA:**
+---
 
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
+## 🧠 Inteligência Artificial & Visão Computacional
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**Outros:**
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
-## 🧠 Projetos em Destaque
+# 🔥 Projetos em Destaque
 
-- **[Detecção de Placas Veiculares BR — YOLO26s Fine-tuning](https://github.com/Rodrigo-RRC/license-plate-br-yolo26s-finetuning)**
-  Fine-tuning supervisionado e otimização genética de hiperparâmetros sobre o modelo YOLO26s para detecção de placas veiculares brasileiras. Atingiu **mAP@50 de 97,04%** e **IoU de 89,74%**. Modelo publicado no [HuggingFace](https://huggingface.co/RodrigoRRC/license-plate-br-yolo26s).
+## 🚘 [Detecção de Placas Veiculares BR — YOLO26s Fine-tuning](https://github.com/Rodrigo-RRC/license-plate-br-yolo26s-finetuning)
 
-- **[Agente Inteligente com Memória + WhatsApp](https://github.com/Rodrigo-RRC/agente-inteligente-whatsapp)**
-  Criação de um agente conversacional usando o modelo GPT-2 com memória contextual, integração com FastAPI e envio de respostas pelo WhatsApp via UltraMsg.
+Projeto de fine-tuning supervisionado utilizando o modelo **YOLO26s** para detecção de placas brasileiras, incluindo otimização genética de hiperparâmetros.
 
-- **[Neurônio de Rosenblatt em Planilha](https://github.com/Rodrigo-RRC/neuronio-rosenblatt)**
-  Treinamento manual de um Perceptron (camada única) com visualização de pesos, bias e limiar (RU), implementado diretamente em uma planilha.
+### 📌 Resultados alcançados:
+- **mAP@50:** 97,04%
+- **IoU:** 89,74%
 
-- **[Portfólio de Análise de Dados com Power BI (em construção)](https://github.com/Rodrigo-RRC/Projetos_PowerBi)**
-  Em breve: dashboards com insights de dados públicos e aplicações reais.
-
----
-
-## ♻️ Pronto para Impactar
-
-Tenho paixão em aprender e aplicar. Busco integrar equipes que queiram fazer mais com dados, inteligência artificial e automação.
-Se você busca um profissional **curioso, dedicado e com mentalidade de crescimento**, estou pronto para contribuir e aprender a cada passo.
+🔗 Modelo publicado no HuggingFace:  
+https://huggingface.co/RodrigoRRC/license-plate-br-yolo26s
 
 ---
 
-## 🧑‍💻 Para Me Encontrar
+## 🤖 [Agente Inteligente com Memória + WhatsApp](https://github.com/Rodrigo-RRC/agente-inteligente-whatsapp)
+
+Desenvolvimento de um agente conversacional com:
+- GPT-2
+- Memória contextual
+- Integração via FastAPI
+- Comunicação pelo WhatsApp usando UltraMsg
+
+---
+
+## 🧠 [Neurônio de Rosenblatt em Planilha](https://github.com/Rodrigo-RRC/neuronio-rosenblatt)
+
+Implementação prática de um Perceptron de camada única diretamente em planilha, permitindo visualização completa de:
+- pesos
+- bias
+- limiar (RU)
+- processo de treinamento
+
+---
+
+## 📊 [Portfólio Power BI](https://github.com/Rodrigo-RRC/Projetos_PowerBi)
+
+Coleção de dashboards e análises com dados públicos e aplicações reais de Business Intelligence.
+
+---
+
+# 🌱 Objetivo Profissional
+
+Busco oportunidades para atuar nas áreas de:
+
+- Ciência de Dados
+- Inteligência Artificial
+- Machine Learning
+- Visão Computacional
+- Engenharia de Dados
+- Automação Inteligente
+
+Tenho perfil analítico, curiosidade constante e forte comprometimento com aprendizado contínuo e geração de valor através da tecnologia.
+
+---
+
+# 📫 Vamos Conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rodrigo-ribeiro-datascience)
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://rodrigo-rrc.github.io/)
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547991820339)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigoribeiroc.dev@gmail.com)
+
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigoribeiroc.dev@gmail.com)
 
 ---
 
-## 🌟 Vamos Conectar?
+# ⭐ Frase que Me Define
 
-Vamos construir soluções que realmente impactam?
-_"O único limite para o seu impacto é a sua imaginação e comprometimento."_
+> “Transformar dados em soluções inteligentes é mais do que tecnologia — é gerar impacto real através da inovação.”
