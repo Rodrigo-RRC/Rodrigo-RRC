@@ -1,10 +1,20 @@
-# 👋 Rodrigo Ribeiro Carvalho
+<div align="center">
 
-### 🤖 Engenharia de IA
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&pause=900&color=0E7C74&center=true&vCenter=true&width=600&height=60&lines=Rodrigo+Ribeiro+Carvalho" alt="Rodrigo Ribeiro Carvalho" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=6A6E74&center=true&vCenter=true&width=600&height=40&lines=Engenharia+de+IA;Vis%C3%A3o+Computacional;Machine+Learning;Deep+Learning" alt="Engenharia de IA" />
+
+<br>
 
 Desenvolvo modelos de inteligência artificial aplicada — do treino e fine-tuning à avaliação por métricas e publicação.
 
-### 🔗 **[Acesse meu portfólio →](https://rodrigo-rrc.github.io)**
+<br>
+
+<a href="https://rodrigo-rrc.github.io">
+<img src="https://img.shields.io/badge/🔗_Acesse_meu_portfólio-0E7C74?style=for-the-badge&logoColor=white" alt="Portfólio" />
+</a>
+
+</div>
 
 ---
 
@@ -43,8 +53,24 @@ Fine-tuning do modelo **YOLO26s** para placas brasileiras a partir do dataset **
 
 ---
 
+## 📈 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-RRC&show_icons=true&hide_border=true&hide=contribs&title_color=0E7C74&icon_color=0E7C74&text_color=57606a&bg_color=ffffff" alt="Estatísticas do GitHub" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=Rodrigo-RRC&hide_border=true&ring=0E7C74&fire=0E7C74&currStreakLabel=0E7C74&sideLabels=57606a&dates=57606a&background=ffffff" alt="Sequência de commits" />
+
+</div>
+
+---
+
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ribeiro-datascience)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547991820339)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigoribeiroc.dev@gmail.com)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rodrigo-ribeiro-datascience"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://wa.me/5547991820339"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="mailto:rodrigoribeiroc.dev@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+
+</div>
