@@ -53,18 +53,6 @@ Fine-tuning do modelo **YOLO26s** para placas brasileiras a partir do dataset **
 
 ---
 
-## 📈 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-RRC&show_icons=true&hide_border=true&hide=contribs&title_color=0E7C74&icon_color=0E7C74&text_color=57606a&bg_color=ffffff" alt="Estatísticas do GitHub" />
-
-<img height="165" src="https://streak-stats.demolab.com?user=Rodrigo-RRC&hide_border=true&ring=0E7C74&fire=0E7C74&currStreakLabel=0E7C74&sideLabels=57606a&dates=57606a&background=ffffff" alt="Sequência de commits" />
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
