@@ -91,6 +91,6 @@ Fine-tuning do **YOLO26s** com o dataset **UFPR-ALPR** em duas etapas: hiperpar√
 
 <a href="https://www.linkedin.com/in/rodrigo-ribeiro-datascience"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://wa.me/5547991820339"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="mailto:EMAIL_A_CONFIRMAR"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="mailto:rodrigorc.dev@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
 </div>
